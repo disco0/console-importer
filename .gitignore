@@ -8,3 +8,6 @@ test/bower_components
 package
 app/scripts
 coverage
+
+.vscode/
+.nvmrc
